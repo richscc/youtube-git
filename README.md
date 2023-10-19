@@ -6,4 +6,4 @@ desde casa el git pull y push
 
 trabajando desde mtc jueves
 
-Este commit es para oficializar v1.0.0
+Este commit es para oficializar *v1.0.0*
